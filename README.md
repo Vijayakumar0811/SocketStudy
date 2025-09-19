@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+# NAME: VIJAYAKUMAR S
+# REG NO: 212224040359
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
